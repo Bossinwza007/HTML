@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-style: italic;
+    font-family: tahoma;
+    font-size: 16pt;
+    line-height: 30pt; 
+    color :white;}
+body img{
+    margin:auto;
+    align-items: center;
+    background-position: center;
+}
+.img{
+    background-image: url("120480443_1041446746306254_6931098517469106523_n.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: auto;
+}
