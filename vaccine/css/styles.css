@@ -1,0 +1,31 @@
+body {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+h1 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;    
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
