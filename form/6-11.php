@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-การสร้างฟอร์มในการรับค่าเพื่อค านวณเกรด</title>
+การสร้างฟอร์มในการรับค่าเพื่อคำนวณเกรด</title>
 </head>
 <body>
 <form method="get" action="6-12.php">
